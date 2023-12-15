@@ -1,0 +1,21 @@
+{
+    "folders": [
+        {
+            "path": "."
+        },
+        {
+            "name": "esp-idf",
+            "path": "/home/danytnt/Documents/esp-idf/"
+        }
+    ],
+    "settings": {
+        "files.associations": {
+            "array": "c",
+            "bitset": "c",
+            "string_view": "c",
+            "initializer_list": "c",
+            "regex": "c",
+            "utility": "c"
+        }
+    }
+}
